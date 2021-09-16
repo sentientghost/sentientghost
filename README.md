@@ -72,6 +72,6 @@
 </details>
 
 
-[website]: https://sites.google.com/kmsankar.com/home
+[website]: https://www.kmsankar.com
 [linkedin]: https://linkedin.com/in/kevin-sankar-6317971b8
 [email]: mailto:dev@kmsankar.com
