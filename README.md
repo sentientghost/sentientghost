@@ -1,4 +1,4 @@
-### Hi there, I'm Kevin <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="hi">
+### Hi there, I'm Kevin <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20" alt="hi">
 
 
 ## I'm a Developer, Engineer and Entrepreneur!!
@@ -8,7 +8,7 @@
 - 👽 I love connecting with people and sharing experiences
 - ❤️ My passion is aerospace 🚀, robotics 🤖 and space 🌌
 - ⚡ Fun facts: I love dragon boat racing and playing the steel pan
-- 🥅 2022 Goals: Graduate with a degree in Electrical and Computer Engineering
+- 🥅 2022 Goals: Start a Technology Company
 
 
 ### Connect with me:
