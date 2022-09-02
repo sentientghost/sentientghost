@@ -20,12 +20,12 @@
 
 ### Top Technologies:
 
-[![ARM Badge](https://img.shields.io/badge/-STMicroelectronics-03234B?style=for-the-badge&labelColor=black&logo=stmicroelectronics&logoColor=03234B)](#) 
-[![ROS Badge](https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&labelColor=black&logo=ros&logoColor=22314E)](#) 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![Unity Badge](https://img.shields.io/badge/-Unity-FFFFFF?style=for-the-badge&labelColor=black&logo=unity&logoColor=FFFFFF)](#) 
-[![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-F8BF3C?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=F8BF3C)](#) 
-[![Xilinx Badge](https://img.shields.io/badge/-Xilinx-E01F27?style=for-the-badge&labelColor=black&logo=xilinx&logoColor=E01F27)](#) 
+[![ARM Badge](https://img.shields.io/badge/-STMicroelectronics-03234B?style=for-the-badge&labelColor=black&logo=stmicroelectronics&logoColor=03234B)][ARM] 
+[![ROS Badge](https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&labelColor=black&logo=ros&logoColor=22314E)][ROS]
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)][React]
+[![Unity Badge](https://img.shields.io/badge/-Unity-FFFFFF?style=for-the-badge&labelColor=black&logo=unity&logoColor=FFFFFF)][Unity]
+[![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-F8BF3C?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=F8BF3C)][TensorFlow]
+[![Xilinx Badge](https://img.shields.io/badge/-Xilinx-E01F27?style=for-the-badge&labelColor=black&logo=xilinx&logoColor=E01F27)][Xilinx]
 
 
 ### Languages and Tools:
@@ -76,3 +76,11 @@
 [website]: https://www.kmsankar.com
 [linkedin]: https://linkedin.com/in/kmsankar
 [email]: mailto:dev@kmsankar.com
+
+
+[ARM]: https://www.st.com/content/st_com/en.html
+[ROS]: https://www.ros.org/blog/getting-started/
+[React]: https://reactjs.org/docs/getting-started.html
+[Unity]: https://unity.com/
+[TensorFlow]: https://www.tensorflow.org/resources/learn-ml?gclid=CjwKCAjwsMGYBhAEEiwAGUXJaeRl44MaIIeFts2QgrMEpF3E7Dp15Buc2KSw_oJnikoTFTCrcpO1wBoCBbgQAvD_BwE
+[Xilinx]: https://www.xilinx.com/
